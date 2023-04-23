@@ -1,2 +1,2 @@
 # WaterAlertSecretary
-Ewha Womans Univ. Fall 2022 - Makers Workshop(38008) - Final Project
+Ewha Womans Univ. Spring 2022 - Makers Workshop(38008) - Final Project
